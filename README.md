@@ -17,5 +17,3 @@ More recipes!
 User profiles & recipe sharing.
 Advanced search & filtering.
 Bon appétit, web chefs!
-
-test test test
